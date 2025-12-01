@@ -26,11 +26,11 @@ profile:
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
 #   limit: 3 # leave blank to include all the blog posts
 ---
-Hi! My name is Keyu Wan. I am a fourth-year undergrad majoring in Mechanical Engineering at Caltech specializing in Robotics, and Control and Dynamic Systems (CDS). I am fortunate to work with Prof. [Aaron Ames](http://ames.caltech.edu), Prof. [Chiara Daraio](https://www.daraio.caltech.edu/daraio.html), Prof.[Mory Gharib](https://www.gharib.caltech.edu), and Prof.[Yuki Oka](https://www.okalab.caltech.edu) from Caltech, and Prof. [Shriya Srinivasan](https://bioniclab.seas.harvard.edu/person-page/) from Harvard. 
+Hi! My name is Keyu Wan. I am a fourth-year undergrad majoring in Mechanical Engineering at Caltech specializing in Robotics, and Control and Dynamic Systems (CDS). I am fortunate to work with Prof. [Aaron Ames](http://ames.caltech.edu), Prof. [Chiara Daraio](https://www.daraio.caltech.edu/daraio.html), Prof. [Mory Gharib](https://www.gharib.caltech.edu), and Prof. [Yuki Oka](https://www.okalab.caltech.edu) from Caltech, and Prof. [Shriya Srinivasan](https://bioniclab.seas.harvard.edu/person-page/) from Harvard. 
 
 My goal is to enable assistive robotics that restore human function and enhance mobility through the integration of physiological sensing, biomechanics, and intelligent control within a closed-loop framework. 
 
-Feel free to check out my [CV](/assets/Resume_Keyu Wan.pdf)
+Feel free to check out my [CV](/assets/pdf/Resume_Keyu%20Wan.pdf)!
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

@@ -45,7 +45,7 @@ repo_trophies:
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+# footer_fixed: true
 # search_enabled: true
 # socials_in_search: true
 # posts_in_search: true
@@ -131,11 +131,6 @@ external_sources:
 # -----------------------------------------------------------------------------
 # Newsletter
 # -----------------------------------------------------------------------------
-
-newsletter:
-  enabled: false
-  endpoint: # your loops endpoint (e.g., https://app.loops.so/api/newsletter-form/YOUR-ENDPOINT)
-  # https://loops.so/docs/forms/custom-form
 
 # -----------------------------------------------------------------------------
 # Collections

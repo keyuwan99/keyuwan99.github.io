@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-2-15
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Received [AAAS](https://meetings.aaas.org) Student E-Poster Competition First Place. I will be giving an oral presentation at the AAAS Annual Conference in Boston. If you will be attending, I would be happy to meet and chat!
+
+
